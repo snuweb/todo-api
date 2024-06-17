@@ -1,0 +1,3 @@
+# Specify that .go files should be treated as Go language
+*.go linguist-language=Go
+
